@@ -1,0 +1,10 @@
+.EntryList {
+
+}
+
+.EntryList > table {
+    margin: 0 auto;
+    width: 60%;
+    border-color: lightgrey;
+    border-style: dashed dashed solid dashed;
+}
