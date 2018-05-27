@@ -7,7 +7,6 @@ import NavBar from './navigation/NavBar';
 import CompetitionItem from './CompetitionItem';
 import EventItem from './EventItem';
 import EntryList from './EntryList';
-import AddGymnastForm from './AddGymnastForm';
 
 import EntryTransformer from './utils/EntryTransformer';
 import RoutineMapper from "./utils/RoutineMapper";
@@ -79,7 +78,6 @@ class App extends Component {
                         </CompetitionItem>
                     )
                 }
-                {/*<AddGymnastForm/>*/}
             </div>
         );
     }
