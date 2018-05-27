@@ -1,4 +1,4 @@
 #!/bin/bash
 
-./docker_build || exit
-./docker_push || exit
+bash docker_build || exit
+bash docker_push || exit
