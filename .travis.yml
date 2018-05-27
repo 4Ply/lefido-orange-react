@@ -19,5 +19,6 @@ script:
 deploy:
   provider: script
   script: bash docker_release
+  skip_cleanup: true
   on:
     branch: master
