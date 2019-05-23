@@ -8,7 +8,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.4.2",
     "react-request": "^3.0.1",
-    "react-scripts": "^2.1.1",
+    "react-scripts": "^3.0.1",
     "reqwest": "^2.0.5",
     "typeface-roboto": "0.0.54"
   },
