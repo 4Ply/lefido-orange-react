@@ -10,7 +10,7 @@
     "react-request": "^3.0.1",
     "react-scripts": "^3.0.1",
     "reqwest": "^2.0.5",
-    "typeface-roboto": "0.0.54"
+    "typeface-roboto": "1.1.13"
   },
   "scripts": {
     "start": "react-scripts start",
